@@ -10,7 +10,7 @@
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="#home" class="navbar-brand">Semicolon Studio;</a>
+                    <a href="#home" class="navbar-brand">Techinstate Media</a>
                </div>
 
                <!-- MENU LINKS -->

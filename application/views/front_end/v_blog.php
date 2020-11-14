@@ -19,7 +19,7 @@
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h2>Karya Kami</h2>
+                              <h2>Karya Kita</h2>
                               <span class="line-bar">...</span>
                          </div>
                     </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>Semicolon Studio</title>
+     <title>Techinstate Media</title>
 <!-- 
 Hydro Template 
 http://www.templatemo.com/tm-509-hydro
